@@ -1,14 +1,16 @@
 import Head from 'next/head'
 
-import styles from '../styles/Home.module.css'
+import styles from '../styles/r.module.css'
 
 export default function Home({ posts }) {
   return (
     <>
       <Head>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <title>Roghib Open Source</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="description" content="Roghib github repositories that are open source and increase your maximum level and gain a great amount of power." />
+        <meta name="description" content="Roghib github repositories, increase your maximum level and gain a great amount of power." />
         <meta property="og:title" content="Roghib Open Source" key="title" />
         <meta property="og:url" content="https://opensource.roghib.com/" />
         <meta property="og:image" content="https://opensource.roghib.com/goku.png" />
