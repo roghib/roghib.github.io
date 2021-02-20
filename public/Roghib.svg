@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2000000 2000000">
- <g>
-   <rect fill="none" width="2000000" height="2000000"/>
-   <g>
-    <rect fill="red" stroke="black" stroke-width="70000" stroke-miterlimit="2.61313" transform="matrix(0.448565 -0.448565 0.455967 0.455967 447368 1.19737E+06)" width="1232000" height="1212000"/>
-    <rect fill="red" stroke="black" stroke-width="70000" stroke-miterlimit="2.61313" transform="matrix(0.448565 -0.448565 0.455967 0.455967 447368 802632)" width="1232000" height="1212000"/>
-    <rect fill="white" stroke="black" stroke-width="70000" stroke-miterlimit="2.61313" transform="matrix(0.448565 -0.448565 0.455967 0.455967 447368 1E+06)" width="1232000" height="1212000"/>
-    <rect fill="yellow" stroke="black" stroke-width="70000" stroke-miterlimit="2.61313" transform="matrix(0.366328 -0.366328 0.372373 0.372373 548684 1.09474E+06)" width="1232000" height="1212000"/>
-    <rect fill="#00CCFF" stroke="black" stroke-width="70000" stroke-miterlimit="2.61313" transform="matrix(0.370866 -0.370866 0.376986 0.376985 543093 905263)" width="1232000" height="1212000"/>
-    <rect fill="#33CC66" stroke="black" stroke-width="70000" stroke-miterlimit="2.61313" transform="matrix(0.284839 -0.284839 0.289539 0.289539 650262 998816)" width="1232000" height="1212000"/>
-    <g>
-     <path fill="#003399" d="M1000000 802632c109003,0 197369,88365 197369,197368 0,109004 -88366,197369 -197369,197369 -109003,0 -197369,-88365 -197369,-197369 0,-109003 88366,-197368 197369,-197368z"/>
-     <path id="1" fill="white" d="M1000000 802632c109003,0 197369,88365 197369,197368 0,109004 -88366,197369 -197369,197369 -109003,0 -197369,-88365 -197369,-197369 0,-109003 88366,-197368 197369,-197368zm104209 93159c-26665,-26665 -63509,-43159 -104209,-43159 -40700,0 -77544,16494 -104209,43159 -26666,26666 -43160,63510 -43160,104209 0,40700 16494,77544 43160,104209 26665,26666 63509,43160 104209,43160 40700,0 77544,-16494 104209,-43160 26666,-26665 43160,-63509 43160,-104209 0,-40699 -16494,-77543 -43160,-104209z"/>
-    </g>
-   </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 2000" style="enable-background:new 0 0 2000 2000;" xml:space="preserve">
+<g>
+	<g>
+		<path style="fill:#FFFFFF;" d="M1000.17,1762.25l-528.28-528.28l528.28-528.28l528.28,528.28L1000.17,1762.25z M528.45,1233.96
+			l471.72,471.72l471.72-471.72l-471.72-471.72L528.45,1233.96z"/>
+	</g>
+	<g>
+		<path style="fill:#FFFFFF;" d="M999.83,1294.32L471.55,766.04l528.28-528.28l528.28,528.28L999.83,1294.32z M528.12,766.04
+			l471.72,471.72l471.72-471.72L999.83,294.32L528.12,766.04z"/>
+	</g>
+	<g>
+		<path style="fill:#FFFFFF;" d="M999.83,1530.1l-528.28-528.28l528.28-528.28l528.28,528.28L999.83,1530.1z M528.12,1001.82
+			l471.72,471.72l471.72-471.72L999.83,530.1L528.12,1001.82z"/>
+	</g>
+	<g>
+		<circle style="fill:#FFFFFF;" cx="1000" cy="1000" r="150"/>
+	</g>
+</g>
 </svg>

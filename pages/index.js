@@ -1,5 +1,5 @@
 import Head from 'next/head'
-
+import Image from 'next/image'
 import styles from '../styles/r.module.css'
 
 export default function Home({ posts }) {
@@ -18,7 +18,8 @@ export default function Home({ posts }) {
       </Head>
       
       <header className={styles.fhedr}>
-        <img src="/Roghib.svg" alt="Roghib | Open Source" className={styles.gokus} />
+      
+        <Image src="/Roghib.svg" alt="Roghib | Open Source" className={styles.gokus} width={50} height={50} />
         <span className={styles.letterspace}>HELLO WORLD!</span>
         </header>
       <main className={styles.main}>
@@ -33,12 +34,12 @@ export default function Home({ posts }) {
 
         <section className={styles.grid}>
           {posts.map((post) => (
-            <div className={styles.card} key={post.id} id={post.id*4316}>
+            <div className={styles.card} key={post.id} id={post.id*43167}>
               <a href={post.html_url} target="_blank" rel="noopener noreferrer">
                 <h3>{post.name} &rarr;</h3>
                 <p>{post.description}</p>
                 <div className={styles.cctr}>
-                <img src="/goku.png" alt="Goku" className={styles.goku} />
+                <Image src="/goku.png" alt="Goku" className={styles.goku} width={90} height={114} />
                 <span>{post.stargazers_count}</span>
                 </div>
                 </a>
