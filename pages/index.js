@@ -19,7 +19,7 @@ export default function Home({ posts }) {
       
       <header className={styles.fhedr}>
       
-        <Image src="/Roghib.svg" alt="Roghib | Open Source" className={styles.gokus} width={40} height={40} />
+        <img src="/Roghib.svg" alt="Roghib | Open Source" className={styles.gokus} />
         <span className={styles.letterspace}>HELLO WORLD!</span>
         </header>
       <main className={styles.main}>
