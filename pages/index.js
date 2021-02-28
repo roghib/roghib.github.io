@@ -10,6 +10,7 @@ export default function Home({ posts }) {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <title>Roghib Open Source</title>
         <link rel="icon" href="/favicon.ico" />
+        <link href="https://opensource.roghib.com/" rel="canonical" />
         <meta name="description" content="Roghib github repositories, increase your maximum level and gain a great amount of power." />
         <meta property="og:title" content="Roghib Open Source" key="title" />
         <meta property="og:url" content="https://opensource.roghib.com/" />
