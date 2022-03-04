@@ -7,8 +7,6 @@ export default function Home({ posts }) {
     <>
       <Head>
         <meta charSet="utf-8" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9522270585888475"
-     crossorigin="anonymous"></script>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <title>Roghib Open Source</title>
         <link rel="icon" href="/favicon.ico" />
